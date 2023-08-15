@@ -1,0 +1,5 @@
+//This is an in-line comment. This is just for informational purpose.
+/**
+ * This is a multiline comment
+ * multiple lines can be added here as a comment.
+ */

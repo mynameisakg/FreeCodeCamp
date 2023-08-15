@@ -1,0 +1,3 @@
+//JS variable shortcut - (BNS)^2OU
+
+var myName;
